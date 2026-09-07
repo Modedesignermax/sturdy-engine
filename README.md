@@ -1,5 +1,5 @@
-├── max-cyberpunk.png
-└── linux-programming.gif
+max-cyberpunk.png
+linux-programming.gif
 <div align="center">
 
 <!-- ⚡ MAX CYBERPUNK INTRO IMAGE -->
