@@ -1,4 +1,3 @@
-<div align="center">
 
 <!-- ⚡ MAX CYBERPUNK INTRO IMAGE -->
 <img src="./max-cyberpunk.png" width="100%">
