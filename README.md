@@ -1,5 +1,3 @@
-DEIN-REPOSITORY/
-│
 ├── README.md
 ├── max-cyberpunk.png
 └── linux-programming.gif
