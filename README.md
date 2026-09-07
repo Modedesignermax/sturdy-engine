@@ -21,32 +21,4 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                 M A X   //   C O R E                        ║
-║                                                              ║
-║  root@max:~$ system-check                                  ║
-║                                                              ║
-║  [ OK ] Linux Kernel                                        ║
-║  [ OK ] Terminal                                            ║
-║  [ OK ] Code Engine                                         ║
-║  [ OK ] Creative Engine                                     ║
-║  [ OK ] Design Core                                         ║
-║  [ OK ] Cyber Interface                                     ║
-║  [ OK ] MAX Identity                                        ║
-║                                                              ║
-║  ──────────────────────────────────────────────────────────  ║
-║                                                              ║
-║  SYSTEM        ██████████████████████████████  ONLINE       ║
-║  SECURITY      ██████████████████████████████  ACTIVE       ║
-║  CREATIVE      ██████████████████████████████  UNLOCKED     ║
-║                                                              ║
-║  ⚡ POWER LEVEL       : MAXIMUM                              ║
-║  ⚡ MODE              : CYBERPUNK                            ║
-║  ⚡ ENVIRONMENT       : LINUX                               ║
-║                                                              ║
-║  root@max:~$ ./launch                                      ║
-║                                                              ║
-║  >>> ACCESS GRANTED                                         ║
-║  >>> WELCOME, MAX                                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+║                                      
