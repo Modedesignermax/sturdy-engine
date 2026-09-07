@@ -1,7 +1,5 @@
-├── README.md
 ├── max-cyberpunk.png
 └── linux-programming.gif
-
 <div align="center">
 
 <!-- ⚡ MAX CYBERPUNK INTRO IMAGE -->
